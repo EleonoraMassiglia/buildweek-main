@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(/BW2QUIZ/assets/bg.jpg);
+}
+
+#start{
+    display: flex;
+    align-items: center;
+    width: 100px;
+}
